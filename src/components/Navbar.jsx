@@ -19,7 +19,7 @@ export default function Navbar() {
       <header className="fixed top-0 left-0 w-full z-50 bg-black">
         <nav className="max-w-7xl mx-auto px-6 py-4 flex items-center justify-between">
           <div className="text-lg font-bold uppercase tracking-widest">
-            Gallery
+           SPICESTORY
           </div>
 
           <ul className="hidden md:flex gap-8 text-sm uppercase tracking-wide">
